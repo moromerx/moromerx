@@ -3,7 +3,7 @@ I'm a 23 year old cybersecurity student currently focusing on blue team operatio
 My Blog:
 
 ## 🛠️ Tools
-'Wireshark' 
+`React`
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
 <!--
