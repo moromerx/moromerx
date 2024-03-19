@@ -1,11 +1,18 @@
 ### Hello! 👋
 I'm a 23 year old cybersecurity student currently focusing on blue team operations.
-My Blog:
+My Blog: 
 
 ## 🛠️ Tools
-`Wireshark` 'Snort'
+`Wireshark` `Snort` `Splunk` `dnSpy` `Ghidra`
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+## 🧱 Currently working on
+[WireShark]()
+
+## ⚡ Fun Facts
+* I'm allergic to cats
+* My favourite anime is Attack on Titan (Although Jujutsu Kaisen is catchin up 👀)
+* Dubbed as the 'Embodiment of Optimism' (or atleast i feel like it anyways)
+
 <!--
 **moromerx/moromerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
