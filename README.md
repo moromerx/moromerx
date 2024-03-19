@@ -1,8 +1,11 @@
 ### Hello! 👋
 I'm a 23 year old cybersecurity student currently focusing on blue team operations.
+My Blog:
 
 ## 🛠️ Tools
-** 'Wireshark' 
+'Wireshark' 
+
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
 <!--
 **moromerx/moromerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
