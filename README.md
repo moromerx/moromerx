@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+I'm a 23 year old cybersecurity student currently focusing on blue team operations.
 
+## 🛠️ Tools
+** 'Wireshark' 
 <!--
 **moromerx/moromerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
