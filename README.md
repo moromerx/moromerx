@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm a 23 year old IT security enthusiast currently focusing on Blue Team operations.
+I'm a 23-year-old IT security enthusiast currently focusing on Blue Team operations.
 
 ## 🛠️ Tools
 `Wireshark` `Snort` `Splunk` `dnSpy` `Ghidra`
