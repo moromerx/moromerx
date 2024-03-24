@@ -9,7 +9,7 @@ I'm a 23 year old cybersecurity student currently focusing on blue team operatio
 
 ## ⚡ Fun Facts
 * I'm allergic to cats
-* My favourite anime is Attack on Titan (Although Jujutsu Kaisen is catchin up 👀)
+* My fav anime is Attack on Titan (Although Jujutsu Kaisen is catchin up 👀)
 * Dubbed as the 'Embodiment of Optimism'
 
 <!--
