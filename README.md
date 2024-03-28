@@ -1,6 +1,8 @@
 ### Hello! 👋
 I'm a 23-year-old IT security enthusiast currently focusing on Blue Team operations.
 
+Medium Page: https://medium.com/@moromerx
+
 ## 🛠️ Tools
 `Wireshark` `Snort` `Splunk` `dnSpy` `Ghidra`
 
