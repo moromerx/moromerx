@@ -6,9 +6,7 @@ Medium Page: https://medium.com/@moromerx
 ## 🛠️ Tools
 `Wireshark` `Snort` `Splunk` `dnSpy` `Ghidra`
 
-## 💻 Some of my work
-
-CTF/Challenges Write-Ups:
+## 🏴 CTF/Challenges Write-Ups:
 
 ### Splunk
 TryHackMe: [New Hire Old Artifacts](Challenges/Splunk/New-Hire-Old-Artifacts{THM}.md)
