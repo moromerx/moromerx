@@ -9,19 +9,19 @@ I'm a 23-year-old IT security enthusiast currently focusing on Blue Team operati
 CTF/Challenges Write-Ups:
 
 ### Splunk
-[TryHackMe: New Hire Old Artifacts](Challenges/Splunk/New-Hire-Old-Artifacts{THM}.md)
+TryHackMe: [New Hire Old Artifacts](Challenges/Splunk/New-Hire-Old-Artifacts{THM}.md)
 
 ### Reversing
 
-[HackTheBox (Cyber-Apoclapyse 2024): Box Cutter (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/BoxCutter%7BHTB%7D.md)
+HackTheBox (Cyber-Apoclapyse 2024): [Box Cutter (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/BoxCutter%7BHTB%7D.md)
 
-[HackTheBox (Cyber-Apoclapyse 2024): Packed Away (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/PackedAway%7BHTB%7D.md)
+HackTheBox (Cyber-Apoclapyse 2024): [Packed Away (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/PackedAway%7BHTB%7D.md)
 
-[HackTheBox (Cyber-Apoclapyse 2024): Loot Stash (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/LootStash%7BHTB%7D.md)
+HackTheBox (Cyber-Apoclapyse 2024): [Loot Stash (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/LootStash%7BHTB%7D.md)
 
 ## Detecting Web Attacks
 
-[LetsDefend.io: SQL Injection Attacks](https://github.com/moromerx/Detecting-Web-Attacks/blob/main/SQL-Injection-Attacks.md)
+LetsDefend.io: [SQL Injection Attacks](https://github.com/moromerx/Detecting-Web-Attacks/blob/main/SQL-Injection-Attacks.md)
 
 ## ⚡ Fun Facts
 * I'm allergic to cats
