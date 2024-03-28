@@ -6,7 +6,7 @@ Medium Page: https://medium.com/@moromerx
 ## 🛠️ Tools
 `Wireshark` `Snort` `Splunk` `dnSpy` `Ghidra`
 
-## 💻 My Work
+## 💻 Some of my work
 
 CTF/Challenges Write-Ups:
 
