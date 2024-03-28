@@ -19,7 +19,7 @@ HackTheBox (Cyber-Apoclapyse 2024): [Packed Away (Very Easy)](https://github.com
 
 HackTheBox (Cyber-Apoclapyse 2024): [Loot Stash (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/LootStash%7BHTB%7D.md)
 
-## Detecting Web Attacks
+### Detecting Web Attacks
 
 LetsDefend.io: [SQL Injection Attacks](https://github.com/moromerx/Detecting-Web-Attacks/blob/main/SQL-Injection-Attacks.md)
 
