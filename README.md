@@ -14,7 +14,9 @@ CTF/Challenges Write-Ups:
 ### Reversing
 
 [HackTheBox (Cyber-Apoclapyse 2024): Box Cutter (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/BoxCutter%7BHTB%7D.md)
+
 [HackTheBox (Cyber-Apoclapyse 2024): Packed Away (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/PackedAway%7BHTB%7D.md)
+
 [HackTheBox (Cyber-Apoclapyse 2024): Loot Stash (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/LootStash%7BHTB%7D.md)
 
 ## Detecting Web Attacks
