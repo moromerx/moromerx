@@ -21,7 +21,8 @@ HackTheBox (Cyber-Apoclapyse 2024): [Loot Stash (Very Easy)](https://github.com/
 
 ### Web Exploitation
 
-picoCTF: [Secrets](Challenges/Web Exploitation/picoCTF-Secrets.md)
+picoCTF: [Secrets](https://github.com/moromerx/CTF-Challenges/blob/main/Challenges/Web%20Exploitation/picoCTF-Secrets.md)
+picoCTF: [GET aHEAD](https://github.com/moromerx/CTF-Challenges/blob/main/Challenges/Web%20Exploitation/picoCTF-GET-aHEAD.md)
 
 ### Detecting Web Attacks
 
