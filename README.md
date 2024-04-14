@@ -19,13 +19,11 @@ HackTheBox (Cyber-Apoclapyse 2024): [Packed Away (Very Easy)](https://github.com
 
 HackTheBox (Cyber-Apoclapyse 2024): [Loot Stash (Very Easy)](https://github.com/moromerx/Blue-Team/blob/main/Challenges/Reverse%20Engineering/LootStash%7BHTB%7D.md)
 
-### Web Exploitation
+### Web
 
 picoCTF: [Secrets](https://github.com/moromerx/CTF-Challenges/blob/main/Challenges/Web%20Exploitation/picoCTF-Secrets.md)
 
 picoCTF: [GET aHEAD](https://github.com/moromerx/CTF-Challenges/blob/main/Challenges/Web%20Exploitation/picoCTF-GET-aHEAD.md)
-
-### Detecting Web Attacks
 
 LetsDefend.io: [SQL Injection Attacks](https://github.com/moromerx/Detecting-Web-Attacks/blob/main/SQL-Injection-Attacks.md)
 
