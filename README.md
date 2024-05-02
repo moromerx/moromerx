@@ -3,8 +3,11 @@ I'm a 23-year-old IT security enthusiast currently focusing on Blue Team operati
 
 Medium Page: https://medium.com/@moromerx
 
-## 🛠️ Tools
-`Wireshark` `Snort` `Splunk` `dnSpy` `Ghidra`
+## 📚 Books I'm currently reading:
+
+1. Practice of Network Security Monitoring : Understanding Incident Detection and Response
+2. Building Virtual Pentesting Labs for Advanced Penetration Testing
+3. Malware Analysis Techniques: Tricks for the triage of adversarial software
 
 ## 🏴 CTF/Challenges Write-Ups:
 
