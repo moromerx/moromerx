@@ -7,7 +7,7 @@ Medium Page: https://medium.com/@moromerx
 
 1. Practice of Network Security Monitoring : Understanding Incident Detection and Response
 2. Building Virtual Pentesting Labs for Advanced Penetration Testing
-3. Malware Analysis Techniques: Tricks for the triage of adversarial software
+3. Practical Malware Analysis : A Hands-On Guide to Dissecting Malicious Software
 
 ## 🏴 CTF/Challenges Write-Ups:
 
