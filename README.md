@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm an IT security devotee
+I’m an IT security devotee—welcome to my GitHub page!
 
 Medium Page: https://medium.com/@moromerx
 
