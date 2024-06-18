@@ -3,12 +3,6 @@ I’m an IT security devotee—welcome to my GitHub page!
 
 Medium Page: https://medium.com/@moromerx
 
-## 📚 Books I'm currently reading:
-
-1. Practice of Network Security Monitoring : Understanding Incident Detection and Response
-2. Building Virtual Pentesting Labs for Advanced Penetration Testing
-3. Practical Malware Analysis : A Hands-On Guide to Dissecting Malicious Software
-
 ## 🏴 CTF/Challenges Write-Ups:
 
 ### Splunk
@@ -32,10 +26,7 @@ picoCTF: [GET aHEAD](https://github.com/moromerx/CTF-Challenges/blob/main/Challe
 
 LetsDefend.io: [SQL Injection Attacks](https://github.com/moromerx/Detecting-Web-Attacks/blob/main/SQL-Injection-Attacks.md)
 
-## ⚡ Fun Facts
-* I'm allergic to cats
-* My fav anime is Attack on Titan (Although Jujutsu Kaisen is catchin up 👀)
-* Dubbed as the 'Embodiment of Optimism'
+
 
 <!--
 **moromerx/moromerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
